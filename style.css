@@ -1,0 +1,117 @@
+body{
+    font-family: monospace;
+    font-size:large;
+    background-color: rgba(212, 165, 232, 0.332);
+}
+.top{
+    text-align: center;
+
+}
+#kushal:link{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
+#kushal:visited{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
+#kushal:hover{
+    text-decoration: underline;
+}
+.list li{
+    display: inline;
+    margin: 40px;
+}
+.link:link{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: larger;
+}
+.link:visited{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+
+}
+.link:hover{
+    text-decoration: underline dashed;
+}
+.border{
+    border-width: 10px;
+    border-style:double;
+    padding: 30px;
+    text-align: center;
+    height: 200px;
+    width: 300px;
+    margin: 30px auto;
+    border-radius: 150px 0px;
+    box-shadow: 10px 5px 4px rgb(209, 183, 39);
+}
+img{
+    width: 200px
+}
+
+.image {
+    margin: 20px auto;
+    width:300px;
+    height:300px  }
+
+    figcaption{ 
+        font-style: oblique;
+        opacity: .6;
+    }
+.socials:link{
+    text-decoration: none;
+    color:black
+
+}
+.socials:visited{
+    text-decoration: none;
+    color:black
+
+}
+.socials:hover{
+    text-decoration: underline;
+    color:black
+}
+#socialtohome{
+    text-decoration: none;
+    font-size: 1.9em;
+    color: black;
+}
+#news{
+  list-style-type: none;
+}
+.fromnews{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+}
+.ku{
+    text-decoration: underline;
+    color: black;
+    font-style: oblique;
+}
+.lop{
+    color: black;
+    font-size: larger;
+}
+#sub{
+    border:30px solid;
+    height: 200px;
+    width: 200px;
+    padding: 30px;
+    margin:20px auto;
+    border-image-source: url(images/99943-golden-frame-square-border-hq-image-free.png);
+    border-image-slice: 150;
+    border-image-width: 40px;
+    border-image-repeat: round;
+}
+
+
+
+  
+ 
